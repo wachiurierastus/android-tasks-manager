@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_id">com.example.myapp</string>
+    <string name="app_version">1.0</string>
+    <string name="app_version_code">1</string>
+    <string name="email">Email</string>
+</resources>
